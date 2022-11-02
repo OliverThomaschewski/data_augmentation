@@ -3,6 +3,6 @@
 ## Presentation date
 21.11.2022
 
-## Informations
+## Information
 - Duration: 15-20 minutes
 - using jupyter Notebook
