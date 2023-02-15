@@ -1,6 +1,6 @@
 # Data Augmentation
 
-Vortrag mit Beispielcode für Data Augmentation in Pyvision.
+Vortrag mit Beispielcode für Data Augmentation in torchvision.
 
 ## Presentation date
 21.11.2022
